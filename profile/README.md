@@ -1,14 +1,25 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bidentsec/.github/main/assets/logo-dark.svg">
-    <img alt="bident icon" src="https://raw.githubusercontent.com/bidentsec/.github/main/assets/logo-light.svg" width="auto" height="64">
-  </picture>
-  <br />
-  
-### Bident
-  
-Building & Breaking Ethereum in Rust
-  
+Bident specializes in offensive research and engineering high-performance Rust tooling for Ethereum security.
 
-[All Repos](https://github.com/orgs/bidentsec/repositories) • [Updates](https://twitter.com/bidentsec)
-</div>
+We build in public. Explore our latest infrastructure:
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+        <br>
+        <a href="https://github.com/bidentsec/jsonrpce">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bidentsec/jsonrpce/refs/heads/main/.github/logo-dark.svg">
+          <img alt="jsonrpce" src="https://raw.githubusercontent.com/bidentsec/jsonrpce/refs/heads/main/.github/logo-light.svg" width="60" height="60">
+        </picture>
+        </a>
+        <br><br>
+    </td>
+    <td width="80%">
+      <h3>jsonrpce</h3>
+      JSON-RPC 2.0 server implementation for Rust. Built for performance and ergonomics.
+      <br><br>
+      <a href="https://github.com/bidentsec/jsonrpce">View Repository</a> • 
+      <a href="https://docs.rs/jsonrpce">API Reference</a>
+    </td>
+  </tr>
+</table>
